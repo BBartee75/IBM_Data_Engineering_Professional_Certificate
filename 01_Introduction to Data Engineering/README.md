@@ -13,4 +13,4 @@ You will learn about career opportunities in the field of Data Engineering and t
 
 By the end of this course, you will also have completed several hands-on labs and worked with a relational database, loaded data into the database, and performed some basic querying operations.
 
-[IBM Introduction to Data Engineering Certificate](https://github.com/BBartee75/IBM_Data_Engineering_Professional_Certificate/blob/main/01_Introduction%20to%20Data%20Engineering/IBM%20Introduction%20to%20Data%20Engineering%20Certificate.pdf)
+![IBM Introduction to Data Engineering Certificate](https://github.com/BBartee75/IBM_Data_Engineering_Professional_Certificate/blob/main/01_Introduction%20to%20Data%20Engineering/Screenshot%202025-08-07%20011049.jpg)

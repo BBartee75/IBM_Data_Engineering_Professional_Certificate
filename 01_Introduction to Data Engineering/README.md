@@ -12,3 +12,5 @@ This course provides you with an understanding of a typical Data Engineering lif
 You will learn about career opportunities in the field of Data Engineering and the different paths that you can take for getting skilled as a Data Engineer. You will hear from several experienced Data Engineers, sharing their insights and advice. 
 
 By the end of this course, you will also have completed several hands-on labs and worked with a relational database, loaded data into the database, and performed some basic querying operations.
+
+[IBM Introduction to Data Engineering Certificate](https://github.com/BBartee75/IBM_Data_Engineering_Professional_Certificate/blob/main/01_Introduction%20to%20Data%20Engineering/IBM%20Introduction%20to%20Data%20Engineering%20Certificate.pdf)
